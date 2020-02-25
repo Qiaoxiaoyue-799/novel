@@ -1,0 +1,23 @@
+{
+  "name": "novel",
+  "version": "1.0.0",
+  "description": "这是一个小说集",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qiaoxiaoyue-799/novel.git"
+  },
+  "keywords": [],
+  "author": "qxy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Qiaoxiaoyue-799/novel/issues"
+  },
+  "homepage": "https://github.com/Qiaoxiaoyue-799/novel#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
